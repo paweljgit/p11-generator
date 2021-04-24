@@ -5,7 +5,7 @@
   <hr />
   <div class="instruction__text">
   <p>Ten nieoficjalny generator powstał, żeby ułatwić klientom Poczty Polskiej samodzielne przygotowanie druku przed wizytą w urzędzie pocztowym.</p><p>Aplikacja online pozwala w łatwy sposób - bez żadnego dodatkowego oprogramowania - wypełnić i wydrukować formularz do formatu pdf. Umożliwia też eksport uzupełnionych w formularzu danych oraz ich ponowne wykorzystanie przyszłości.</p>
-  <p>Aplikacja powstała w ramach niekomercyjnego projektu programistycznego. Nie jest zlecona, autoryzowana ani utrzymywana przez Pocztę Polską. Generator działa bezpiecznie w Twojej przeglądarce - dane nie są rejestrowane na żadnym serwerze. Pełen kod źródłowy aplikacji jest publiczny i dostępny pod <a href="https://github.com/paweljgit/p11-generator" target="_blank">linkiem</a>.</p><p>Miłego dnia i przyjemnego korzystania.</p>
+  <p>Aplikacja powstała w ramach niekomercyjnego projektu programistycznego. Nie jest zlecona, autoryzowana ani utrzymywana przez Pocztę Polską. Generator działa bezpiecznie w Twojej przeglądarce - dane nie są rejestrowane na żadnym serwerze. Pełen kod źródłowy aplikacji jest publiczny i dostępny pod <a href="https://github.com/paweljgit/p11-generator" target="_blank" rel="noopener">linkiem</a>.</p><p>Miłego dnia i przyjemnego korzystania.</p>
   </div>
 </div>
 </template>

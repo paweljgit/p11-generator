@@ -4,5 +4,5 @@ Happy app in Vue :)
 
 ## Live app link
 ```
-unofficial-p11-form-generator.netlify.app
+https://unofficial-p11-form-generator.netlify.app
 ```
