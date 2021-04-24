@@ -1,0 +1,40 @@
+@import 'normalize.scss';
+@import 'variables.scss';
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background: var(--base-primary-color);
+    background: linear-gradient(to top, var(--base-secondary-color), var(--base-primary-color));
+    min-height: 100%;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 13px;
+    padding-bottom: 100px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+.base-center-wrapper {
+    margin: 0px auto;
+    width: fit-content;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+    transition: opacity .4s;
+}
+
+.fade-enter,
+.fade-leave-to,
+.fade-leave-active {
+    opacity: 0;
+}

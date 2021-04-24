@@ -1,0 +1,22 @@
+{
+    "senderAddressLine1": "",
+    "senderAddressLine2": "",
+    "senderAddressLine3": "",
+    "senderAddressZip": "",
+    "senderAddressCity": "",
+    "recipientAddressLine1": "",
+    "recipientAddressLine2": "",
+    "recipientAddressLine3": "",
+    "recipientAddressZip": "",
+    "recipientAddressCity": "",
+    "deliveryConfirmation": "",
+    "notification": "",
+    "receiptConfirmation": "",
+    "priority": "",
+    "sizeA": "",
+    "sizeB": "",
+    "weightKg": "",
+    "weightG": "",
+    "chargeZl": "",
+    "chargeGr": ""
+}
