@@ -2,7 +2,7 @@
 
 |Video presentation <Br />of the project|Screenshot <br />of the project|
 |--|--|
-|[![Video presentation of the project](https://s08.pl/git/img/post/post-youtube.png)](https://www.youtube.com/watch?v=DCfQEuZP4bM)|[![Screenshot of the project](https://s08.pl/git/img/post/post-screen.png)](https://unofficial-p11-form-generator.netlify.app)|
+|[![Video presentation of the project](https://s08.pl/git/img/post/post-youtube.png)](https://www.youtube.com/watch?v=x7ZSG-QgDtk)|[![Screenshot of the project](https://s08.pl/git/img/post/post-screen.png)](https://unofficial-p11-form-generator.netlify.app)|
 
 I wrote this generator to make it easier for Poczta Polska customers to prepare the confirmation print on their own.
 The app is an unofficial private project. This generator works 100% in the client's browser. It allows you to:
