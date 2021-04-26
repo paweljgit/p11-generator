@@ -13,6 +13,9 @@ The app is an unofficial private project. This generator works 100% in the clien
 
 This generator is based on the pixelperfect approach. The form template in the application corresponds to the paper form template. The form is prepared with attention to detail.
 
+![Screen shot of the project](https://s08.pl/git/img/post/pdf.png)
+
+
 ## Live site url 
 
 https://unofficial-p11-form-generator.netlify.app - I invite you check, go ahead and click :)
